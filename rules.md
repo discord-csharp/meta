@@ -1,3 +1,6 @@
+Welcome to the .NET C# Guild. We are a programming server aimed at discussing everything related to C# and .NET. Our rules build upon the Discord and .NET Community Guidelines (https://discordapp.com/guidelines and https://dotnetfoundation.org/code-of-conduct).
+
+**Rules**
 **0)** Staff advisement is to be followed at all times - please listen first and follow up in a DM or using @StaffModMail#9002 if you want clarification.
 
 **1)** Be civil and professional. Personal attacks, harassment, and hate speech will not be tolerated.
@@ -19,3 +22,23 @@
     - Extremist content
     - Breaking of Discord terms of service
     - Malicious hacking, exploiting, piracy or unauthorized distribution
+
+Staff retain the right to ask for any discussion to stop. If a discussion is getting heated, or you feel that staff need to step in, ping a Moderator or Admin.
+
+**Share your Project**
+We encourage you to share your .NET project in #projects. Make sure it's publicly available, under an open-source license, and is within in the .NET ecosystem. When posting, make sure to use the following format - and only make a single post per project.
+```
+Name: 
+Purpose: 
+Main Contributor:
+Source:
+```
+**Microsoft Employee Verification**
+If you're a Microsoft employee, and would like to show it off, use the `%%microsoft verify` command in #bot-spam
+឵឵ ឵឵
+We have several verified roles for employees of significant entities. These roles are purely cosmetic, cannot be pinged, and are not separated in the Discord user list. Users cannot specifically target or export a list of employees from this server.
+
+If at any point you are unsure of anything, ping a Moderator or Admin. If you are unhappy with the decision a Moderator or Admin made, message another Admin.
+
+**Invite others**
+Use our fancy, official-sounding link http://aka.ms/csharp-discord or share https://discord.gg/csharp
