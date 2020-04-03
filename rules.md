@@ -33,9 +33,10 @@ Purpose:
 Main Contributor:
 Source:
 ```
+
 **Microsoft Employee Verification**
 If you're a Microsoft employee, and would like to show it off, use the `%%microsoft verify` command in #bot-spam
-឵឵ ឵឵
+
 We have several verified roles for employees of significant entities. These roles are purely cosmetic, cannot be pinged, and are not separated in the Discord user list. Users cannot specifically target or export a list of employees from this server.
 
 If at any point you are unsure of anything, ping a Moderator or Admin. If you are unhappy with the decision a Moderator or Admin made, message another Admin.
