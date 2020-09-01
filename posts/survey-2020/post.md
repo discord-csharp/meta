@@ -40,7 +40,7 @@ As the server grows, it is only inevitable there will be more moderation/inciden
 
 ![off topic](offtopic-split.png)
 
-The majority of users do not seem to mind or want offtopic channels to be part of the server, so we will push community-orientated channels more than before.
+The majority of users do not seem to mind and do want offtopic channels to be part of the server, so we will push community-orientated channels more than before.
 
 ### On the proposed channel list
 
