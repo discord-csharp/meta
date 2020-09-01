@@ -22,11 +22,11 @@ We have had feedback that this question should have been split into two - howeve
 
 Struggling to keep oversight of resources available, at any level of knowledge, is a struggle for us as a server. We're currently working on a new website to refresh the existing, defunct, website which will hopefully open up a new option for collating resources.
 
-We have had comments that the pins in channels are of low quality and do not help. We will be refreshing these over the coming weeks, with the release of .NET 5.
+We have had comments that the pins in channels are of low quality and do not help. We will be refreshing these over the coming weeks, with the release of .NET 5 in November.
 
 We have had comments indicating the interest of adding more helper channels - and these requests being ignored. We are of the belief we have not ignored these requests and have responded, with the reasoning that we do not want too many channels and the demand is *just* right for the number of channels we have currently. We are constantly on the analytics observing channel load, and as the server grows, there will, no doubt, be the need for more channels to be created. At this time we (the staff) feel we have an adequate amount.
 
-### On satisifcation of moderation and management
+### On satisfaction of moderation and management
 
 ![moderation](moderation.png)
 
@@ -62,4 +62,4 @@ We had a suggestion in this section to create a page for users to be able to col
 
 For now, this is the update to the survey. There will be another post once we have the final survey and are happy that we have had a large enough response to create a good enough change to the server.
 
-For questions or other comments, please direct them at the #2020-survey at [discord.gg/csharp](https://discord.gg/csharp).
+For questions or other comments, please direct them at the #2020-survey channel on [discord.gg/csharp](https://discord.gg/csharp).
