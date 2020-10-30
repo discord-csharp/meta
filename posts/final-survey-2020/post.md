@@ -22,7 +22,7 @@ Insights shown below are from August 8th, one month prior to the changes, to Oct
 
 ![activation](activation.png)
 
-**Retention** seems to be sporradic and hard to measure. Our best guess is that it is equal or a little more consistent than pre-survey. We will continue to look at this.
+**Retention** seems to be sporadic and hard to measure. Our best guess is that it is equal or a little more consistent than pre-survey. We will continue to look at this.
 
 ![retention](retention.png)
 
